@@ -3,7 +3,7 @@
 -This project focuses on building a linear regression model to estimate house prices based on features such as the living area square footage, number of bedrooms, and number of bathrooms.
 
 ## Dataset Details
--The dataset utilized for this project provides details about different house features and their corresponding sale prices. Key attributes included are:
+The dataset utilized for this project provides details about different house features and their corresponding sale prices. Key attributes included are:
 -GrLivArea: Above ground living area in square feet
 -BedroomAbvGr: Number of bedrooms above ground level (excluding basement bedrooms)
 -FullBath: Number of complete bathrooms above ground level
